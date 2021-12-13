@@ -11,4 +11,4 @@ This bot was built on my local computer, however I also hosted it on an API, Pyt
 
 Limitations:
 
-Unfortunately, the bot only functions when you have the API Python Anywhere code or FinalBotCode running on your local device. Thus, when both off these are off, the bot is not functioning. If you need the bot to run, email @ktw5nb@virginia.edu to turn on Python Anywhere. 
+Unfortunately, the bot only functions when you have the API Python Anywhere code or FinalBotCode running on your local device. Thus, when both off these are off, the bot is not functioning. If you need the bot to run, email ktw5nb@virginia.edu to turn on Python Anywhere. 
