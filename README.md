@@ -6,7 +6,7 @@ For tweets that mention the bot with keywords help or info my bot replies with i
 
 For tweets that mention the bot with keywords inspiration or quote my bot replies with a quote from a quote API. The quote API is "https://api.quotable.io/random" which is a link that randomly pulls a quote and all of it's information in a JSON. I then extracted just the quote and author and put it in my desired format to tweet back as a reply. 
 
-This bot was built on my local computer, however I also hosted it on an API Python Anywhere. The reason it lives here is so that it can be sent/accessed by other computers easily and if I want to have it tweet or turn on at certain times throughout the day, I would be able to enable this through the Python Anywhere API.
+This bot was built on my local computer, however I also hosted it on an API, Python Anywhere. The reason it lives here is so that it can be sent/accessed by other computers easily and if I want to have it tweet or turn on at certain times throughout the day, I would be able to enable this through the Python Anywhere API.
 
 
 Limitations:
